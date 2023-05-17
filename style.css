@@ -555,7 +555,8 @@ header .nav-link:hover:after{
 
 .design-section .para-1{
 	font-size: 24px;
-	color: #536940 !important;  
+	color: #536940 !important; 
+	text-align: start;
 }
 
 .design-section .btn{
