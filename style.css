@@ -352,6 +352,20 @@ header .nav-link:hover:after{
 	}
 }
 
+@media screen and (max-width: 425px){
+	.about-section h2{
+		margin: 20px 0;
+		text-align: justify;
+	}
+}
+
+@media screen and (max-width: 425px){
+	.about-section .para-1{
+		padding: 20px 0 0 0;
+		text-align: justify;
+	}
+}
+
 /* Home Page End */
 
 
